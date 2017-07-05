@@ -1,0 +1,13 @@
+D:\IdeaProjects\ConwayLifeGame\src\main\java\hu\bence\springapplications\service\domain\Cell.java
+D:\IdeaProjects\ConwayLifeGame\src\main\java\hu\bence\springapplications\service\StorageService.java
+D:\IdeaProjects\ConwayLifeGame\src\main\java\hu\bence\springapplications\view\controller\GameOfLifeController.java
+D:\IdeaProjects\ConwayLifeGame\src\main\java\hu\bence\springapplications\service\GameStateService.java
+D:\IdeaProjects\ConwayLifeGame\src\main\java\hu\bence\springapplications\service\exception\StorageException.java
+D:\IdeaProjects\ConwayLifeGame\src\main\java\hu\bence\springapplications\service\impl\GameStateServiceImpl.java
+D:\IdeaProjects\ConwayLifeGame\src\main\java\hu\bence\springapplications\service\properties\StorageProperties.java
+D:\IdeaProjects\ConwayLifeGame\src\main\java\hu\bence\springapplications\view\restcontroller\GameMechanismController.java
+D:\IdeaProjects\ConwayLifeGame\src\main\java\hu\bence\springapplications\service\impl\FileSystemStorageService.java
+D:\IdeaProjects\ConwayLifeGame\src\main\java\hu\bence\springapplications\service\exception\StorageFileNotFoundException.java
+D:\IdeaProjects\ConwayLifeGame\src\main\java\hu\bence\springapplications\ConwayLifeGameApplication.java
+D:\IdeaProjects\ConwayLifeGame\src\main\java\hu\bence\springapplications\service\domain\GameState.java
+D:\IdeaProjects\ConwayLifeGame\src\main\java\hu\bence\springapplications\view\controller\FileUploadController.java

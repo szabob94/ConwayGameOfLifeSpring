@@ -1,0 +1,13 @@
+.cell {
+	width: 1%;
+	height: 10px;
+	border-right: 1px solid #dcdcdc;
+	border-bottom: 1px solid #dcdcdc;
+	border-top: 1px solid #dcdcdc;
+	border-left: 1px solid #dcdcdc;
+	float:left;
+}
+
+.cell.black {
+	background-color: black;
+}

@@ -1,0 +1,13 @@
+hu\bence\springapplications\ConwayLifeGameApplication.class
+hu\bence\springapplications\service\domain\GameState.class
+hu\bence\springapplications\service\exception\StorageFileNotFoundException.class
+hu\bence\springapplications\view\controller\GameOfLifeController.class
+hu\bence\springapplications\service\impl\GameStateServiceImpl.class
+hu\bence\springapplications\service\StorageService.class
+hu\bence\springapplications\view\restcontroller\GameMechanismController.class
+hu\bence\springapplications\service\properties\StorageProperties.class
+hu\bence\springapplications\service\GameStateService.class
+hu\bence\springapplications\service\exception\StorageException.class
+hu\bence\springapplications\view\controller\FileUploadController.class
+hu\bence\springapplications\service\impl\FileSystemStorageService.class
+hu\bence\springapplications\service\domain\Cell.class
